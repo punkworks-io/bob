@@ -1,0 +1,17 @@
+# Environments
+*.env
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+output/
+config/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
